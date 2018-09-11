@@ -1,0 +1,13 @@
+D:\FootballGround\FootballGround.Common\bin\Debug\FootballGround.Common.dll
+D:\FootballGround\FootballGround.Common\bin\Debug\FootballGround.Common.pdb
+D:\FootballGround\FootballGround.Common\obj\Debug\FootballGround.Common.dll
+D:\FootballGround\FootballGround.Common\obj\Debug\FootballGround.Common.pdb
+D:\FootballGround\FootballGround.Common\bin\Debug\FootballGround.Common.dll.config
+D:\FootballGround\FootballGround.Common\bin\Debug\EntityFramework.dll
+D:\FootballGround\FootballGround.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\FootballGround\FootballGround.Common\bin\Debug\Owin.dll
+D:\FootballGround\FootballGround.Common\bin\Debug\System.Web.Mvc.dll
+D:\FootballGround\FootballGround.Common\bin\Debug\EntityFramework.xml
+D:\FootballGround\FootballGround.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\FootballGround\FootballGround.Common\bin\Debug\System.Web.Mvc.xml
+D:\FootballGround\FootballGround.Common\obj\Debug\FootballGround.Common.csprojResolveAssemblyReference.cache
